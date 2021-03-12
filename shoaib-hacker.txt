@@ -1,14 +1,14 @@
 #!/bin/bash
 #Taking Input & output from user
-echo"
+echo -e "\e[1;31m 
 ===============CODDED BY SHOAIB HACKER==============
 
 ===============[ RAMPUR UTTAR PRADESH ]=============
 
                  CONTACT = 8791334748
 
-===================[ RANDOM TOOL ]==================
-
+===================[ RANDOM TOOL ]==================\e[0m"
+echo -e "\e[1;32m 
 
 CREATED BY = SHOAIB HACKER
 
@@ -43,4 +43,48 @@ $ cd RED_HAWK
 
 $ php rhawk.php
 ________________________________________
-◕‿◕ ◕‿◕ ◕‿◕ ◕‿◕ ◕‿◕ ◕‿◕ ◕‿◕ ◕‿◕ ◕‿◕"
+◕‿◕ ◕‿◕ ◕‿◕ ◕‿◕ ◕‿◕ ◕‿◕ ◕‿◕ ◕‿◕ ◕‿◕ \e[0m"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
